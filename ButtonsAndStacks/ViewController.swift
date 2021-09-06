@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     
     var colors: [UIColor] = [.red, .orange, .yellow, .green, .blue, .systemIndigo, .systemPurple]
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }

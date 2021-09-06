@@ -34,7 +34,6 @@ class ViewController: UIViewController {
 //            colorLabel.text = "You clicked \(sender.currentTitle!)"
 //            colorLabel.textColor = colors[sender.tag]
 //        }
-
     }
 }
 
